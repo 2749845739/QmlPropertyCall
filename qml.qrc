@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PropertyBetweenQml/RootInterface.qml</file>
+        <file>PropertyBetweenQml/SecondLayer.qml</file>
+    </qresource>
+</RCC>

@@ -1,7 +1,9 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>PropertyBetweenQml/RootInterface.qml</file>
-        <file>PropertyBetweenQml/SecondLayer.qml</file>
+        <file>PropertyBetweenQml/RootPane.qml</file>
+        <file>PropertyBetweenQml/SecondPane.qml</file>
+        <file>CusCalendar.qml</file>
+        <file>resource/calendarnext.png</file>
     </qresource>
 </RCC>

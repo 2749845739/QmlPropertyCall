@@ -5,5 +5,11 @@
         <file>PropertyBetweenQml/SecondPane.qml</file>
         <file>CusCalendar.qml</file>
         <file>resource/calendarnext.png</file>
+        <file>PropertyBetweenQml/ThirdPanel.qml</file>
+        <file>MultiLayerQml/RootPane.qml</file>
+        <file>MultiLayerQml/Panel02.qml</file>
+        <file>MultiLayerQml/Panel01.qml</file>
+        <file>MultiLayerQml/Panel03.qml</file>
+        <file>MultiLayerQml/Panel04.qml</file>
     </qresource>
 </RCC>

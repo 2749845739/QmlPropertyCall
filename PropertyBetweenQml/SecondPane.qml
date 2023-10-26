@@ -14,6 +14,7 @@ TextField {
     font.pixelSize: 20
     horizontalAlignment: Qt.AlignHCenter
     verticalAlignment: Qt.AlignVCenter
+    placeholderText: "place Text 02"
     MouseArea {
         anchors.fill: parent
         onClicked:  {

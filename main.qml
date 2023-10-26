@@ -1,6 +1,7 @@
 import QtQuick 2.15
 import QtQuick.Window 2.15
-import "./PropertyBetweenQml"
+//import "./PropertyBetweenQml"
+import  "./MultiLayerQml"
 
 Window {
     width: 400

@@ -36,6 +36,7 @@ else()
     else()
         add_executable(QmlPropertyCall
           ${PROJECT_SOURCES}
+          ToolWorker.cpp ToolWorker.h
         )
     endif()
 endif()
